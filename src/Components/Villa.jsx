@@ -90,7 +90,7 @@ function Villa() {
         <div className="mt-36 w-[85%] m-auto">
           <div className="flex items-center justify-between">
             <h1 className="text-3xl font-semibold">
-              Search Propertien For Rent
+              Search Properties For Rent
             </h1>
             <p className="text-3xl font-semibold">
               <Link to="/cart">
